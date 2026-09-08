@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-211528-k8qp",
+      "title": "Eight Point Zero",
+      "commanders": [
+        "Eight Point Zero"
+      ],
+      "guild": {
+        "id": "D05BA74D-96AB-F111-BB0A-02C03D08B4F1",
+        "name": "Please Stop Ki",
+        "tag": "ting"
+      },
+      "dateStart": "2026-09-08T19:15:28.000Z",
+      "dateEnd": "2026-09-08T19:50:29.925Z",
+      "dateLabel": "08/09/2026 21:15:28 - 08/09/2026 21:50:29",
+      "url": "https://WashioGW2.github.io/TINGTINGTING/?report=20260908-211528-k8qp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260908-200912-pggp",
       "title": "Eight Point Zero",
       "commanders": [
