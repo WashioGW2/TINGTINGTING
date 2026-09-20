@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-212917-rxu4",
+      "title": "Crio Tek",
+      "commanders": [
+        "Crio Tek"
+      ],
+      "guild": {
+        "id": "D05BA74D-96AB-F111-BB0A-02C03D08B4F1",
+        "name": "Please Stop Ki",
+        "tag": "ting"
+      },
+      "dateStart": "2026-09-20T19:29:17.000Z",
+      "dateEnd": "2026-09-20T19:46:46.560Z",
+      "dateLabel": "20/09/2026 21:29:17 - 20/09/2026 21:46:46",
+      "url": "https://WashioGW2.github.io/TINGTINGTING/?report=20260920-212917-rxu4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260917-201651-lwh3",
       "title": "Crio Tek",
       "commanders": [
